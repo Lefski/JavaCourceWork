@@ -123,7 +123,7 @@ export const RegisterPage = () => {
                                                      style={{height: "20px", width: "20px"}}
                                                 >
                                                     <span className="visually-hidden">Loading...</span>
-                                                </div> : "Register for publisher"}
+                                                </div> : "Register"}
                                             </button>
                                         </div>
                                     </BaseFormForPublisher>
